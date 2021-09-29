@@ -17,7 +17,7 @@ These documents encompass the following expense categories that need to be prepa
 - Prizes for events (acknowledgement from recipient with misc. details)
 - Reimbursement acknowledgement letter (for online purchases)
 
-> * represents required paperwork. 
+> \* represents required paperwork. 
 
 ### `U`ploading
 Once the above documents have been prepared, the next step is to upload the documents to the internal 24th MC Google Drive at the following path:
